@@ -8,7 +8,7 @@
 
 Welcome to my portfolio! 🔗 [arthurmgraf.github.io/arthur-portfolio/](https://arthurmgraf.github.io/arthur-portfolio/)
 
-Dynamic professional focused on **data analysis**, **engineering**, and **BI solutions**, with expertise in transforming raw data into strategic insights for data-driven decision-making.
+Data Engineer and Analyst with experience in market indicator analysis, strategic metric tracking, and data visualization, combined with a genuine enthusiasm for the financial market. I specialize in transforming raw data into actionable insights, driving strategic decisions and the development of Business Intelligence solutions and products.
 
 ## 🧑‍💻 About Me  
 I am a **Data Engineer and Analyst** passionate about the financial market, combining technical expertise with a results-driven approach. My experience includes:  
