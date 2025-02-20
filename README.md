@@ -66,3 +66,16 @@ I am a **Data Engineer and Analyst** passionate about the financial market, comb
 ### **Methodologies**  
 ![Agile](https://img.shields.io/badge/Agile-0091D5?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+
+<p align="center">
+  <a href="https://wakatime.com/@arthurmgraf">
+    <img src="https://wakatime.com/share/@arthurmgraf/88f693e7-08fa-479a-b8c9-0c24218d2e2b.svg" alt="WakaTime Badge" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@arthurmgraf">
+    <img src="https://wakatime.com/share/@arthurmgraf/2829ebad-602c-4681-a1ee-35a522c092d0.svg" alt="WakaTime Stats SVG" width="500"/>
+  </a>
+</p>
