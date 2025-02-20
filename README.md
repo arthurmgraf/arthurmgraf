@@ -30,12 +30,11 @@ Data Engineer and Analyst with experience in market indicator analysis, strategi
 
 ## 🧑‍💻 About Me
 
-I am a **Data Engineer and Analyst** passionate about the financial market, combining technical expertise with a results-driven approach. My experience includes:
-
 - **Advanced Analytics**: Market Share, Sales Variation, Average Price, Distributions, Stock, Churn, KPIs, **Trend Analysis, Forecasting, Reporting, Performance Indicators.**
 - **Data Engineering**: Docker, Kubernetes, Apache Spark, DBT, SQL, **Python, Linux, ETL/ELT, Data Warehousing, Cloud Solutions.**
 - **BI Development**: Apache Superset, Power BI, Grafana, Excel, **Data Visualization, Data Storytelling, Interactive Reports, Executive Dashboards.**
 - **Soft Skills**: **Teamwork, Proactivity, Collaboration, Continuous Improvement, Knowledge Sharing.**
+- **Hobbies**: Guitar, Weightlifting, Travel, Beach.
 
 ## 🛠️ Technical Expertise  
 ### **Data Engineering & Analysis**  
