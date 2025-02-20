@@ -1,10 +1,23 @@
-# Arthur Maia Graf - Data Analyst | Data Engineer
-<div>
-  <a href="https://www.linkedin.com/in/arthurmgraf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# Arthur Maia Graf - Data Analyst | Data Engineer ![](https://komarev.com/ghpvc/?username=arthurmgraf)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/arthurmgraf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/arthurmgraf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-##
+<br/>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180  src="https://github-readme-stats.vercel.app/api?username=arthurmgraf" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180  src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmgraf&layout=compact&langs_count=8&card_width=320" />
+</a>
+</div>
+
+<br/>
+
 
 Data Engineer and Analyst with experience in market indicator analysis, strategic metric tracking, and data visualization, combined with a genuine enthusiasm for the financial market. I specialize in transforming raw data into actionable insights, driving strategic decisions and the development of Business Intelligence solutions and products.
 
@@ -15,7 +28,7 @@ I am a **Data Engineer and Analyst** passionate about the financial market, comb
 - **BI Development**: Creating interactive dashboards (Apache Superset, Power BI) to empower strategic decisions.  
 - **Process Optimization**: Implementing Agile methodologies and backlog prioritization to streamline operations.  
 
----
+
 
 ## 🛠️ Technical Expertise  
 ### **Data Engineering & Analysis**  
@@ -47,14 +60,12 @@ I am a **Data Engineer and Analyst** passionate about the financial market, comb
 ![Agile](https://img.shields.io/badge/Agile-0091D5?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
----
 
 ## 📌 Highlighted Projects  
 1. **Retail Analytics Dashboard**: Developed Apache Superset dashboards for tracking market share, sales performance, and distribution metrics.  
 2. **Financial Data Pipelines**: Built automated data pipelines with Python and DBT for real-time financial market analysis.  
 3. **BI Product Development**: Collaborated on scalable BI tools to optimize decision-making for retail brands.  
 
----
 
 ## 📫 Let’s Connect!  
 - **LinkedIn**: [Arthur Maia Graf](https://www.linkedin.com/in/arthurmgraf/)  
