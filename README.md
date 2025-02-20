@@ -79,3 +79,9 @@ I am a **Data Engineer and Analyst** passionate about the financial market, comb
     <img src="https://wakatime.com/share/@arthurmgraf/2829ebad-602c-4681-a1ee-35a522c092d0.svg" alt="WakaTime Stats SVG" width="500"/>
   </a>
 </p>
+
+</div>
+<div align="left">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12168092250&count=3" alt="Recently Played">
+</div>
+</div>
