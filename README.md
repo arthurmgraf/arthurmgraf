@@ -1,12 +1,20 @@
-# Arthur Maia Graf - Data Analyst | Data Engineer ![](https://komarev.com/ghpvc/?username=arthurmgraf)
+<div align="center">
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=400&pause=1000&multiline=true&width=650&height=140&lines=;Arthur+Maia+Graf++|++Analytics+Engineer&color=fdfeff" alt="Title GitHub Readme" />
+  </a> 
+</h1>
+</div>
+<div align="center">
 
-<div align="left">
+![](https://komarev.com/ghpvc/?username=arthurmgraf)
+</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/arthurmgraf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/arthurmgraf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:arthurmgraf@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
-
 <br/>
-
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180  src="https://github-readme-stats.vercel.app/api?username=arthurmgraf" />
@@ -15,7 +23,6 @@
   <img height=180  src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmgraf&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
-
 <br/>
 
 
@@ -59,14 +66,3 @@ I am a **Data Engineer and Analyst** passionate about the financial market, comb
 ### **Methodologies**  
 ![Agile](https://img.shields.io/badge/Agile-0091D5?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
-
-## 📌 Highlighted Projects  
-1. **Retail Analytics Dashboard**: Developed Apache Superset dashboards for tracking market share, sales performance, and distribution metrics.  
-2. **Financial Data Pipelines**: Built automated data pipelines with Python and DBT for real-time financial market analysis.  
-3. **BI Product Development**: Collaborated on scalable BI tools to optimize decision-making for retail brands.  
-
-
-## 📫 Let’s Connect!  
-- **LinkedIn**: [Arthur Maia Graf](https://www.linkedin.com/in/arthurmgraf/)  
-- **Email**: arthurmgraf@hotmail.com
