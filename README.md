@@ -26,16 +26,16 @@
 <br/>
 
 
-Data Engineer and Analyst with experience in market indicator analysis, strategic metric tracking, and data visualization, combined with a genuine enthusiasm for the financial market. I specialize in transforming raw data into actionable insights, driving strategic decisions and the development of Business Intelligence solutions and products.
+Data Engineer and Analyst with experience in market indicator analysis, strategic metric tracking, and data visualization, combined with a genuine enthusiasm for the financial market. I work in transforming raw data into actionable insights, contributing to strategic decisions and the development of Business Intelligence solutions and products.
 
-## 🧑‍💻 About Me  
-I am a **Data Engineer and Analyst** passionate about the financial market, combining technical expertise with a results-driven approach. My experience includes:  
-- **Advanced Analytics**: Market indicator analysis, sales metrics, and financial performance tracking.  
-- **Data Engineering**: Building scalable pipelines and automated workflows with Docker, Kubernetes, and Apache Spark.  
-- **BI Development**: Creating interactive dashboards (Apache Superset, Power BI) to empower strategic decisions.  
-- **Process Optimization**: Implementing Agile methodologies and backlog prioritization to streamline operations.  
+## 🧑‍💻 About Me
 
+I am a **Data Engineer and Analyst** passionate about the financial market, combining technical expertise with a results-driven approach. My experience includes:
 
+- **Advanced Analytics**: Market Share, Sales Variation, Average Price, Distributions, Stock, Churn, KPIs, **Trend Analysis, Forecasting, Reporting, Performance Indicators.**
+- **Data Engineering**: Docker, Kubernetes, Apache Spark, DBT, SQL, **Python, Linux, ETL/ELT, Data Warehousing, Cloud Solutions.**
+- **BI Development**: Apache Superset, Power BI, Grafana, Excel, **Data Visualization, Data Storytelling, Interactive Reports, Executive Dashboards.**
+- **Soft Skills**: **Teamwork, Proactivity, Collaboration, Continuous Improvement, Knowledge Sharing.**
 
 ## 🛠️ Technical Expertise  
 ### **Data Engineering & Analysis**  
