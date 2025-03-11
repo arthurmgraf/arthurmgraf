@@ -40,8 +40,8 @@ Data Engineer and Analyst with experience in market indicator analysis, strategi
 ### **Data Engineering & Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Pine Script](https://img.shields.io/badge/Pine_Script-00A1E0?style=for-the-badge&logo=tradingview&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pine Script](https://img.shields.io/badge/Pine_Script-00A1E0?style=for-the-badge&logo=tradingview&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
