@@ -25,6 +25,9 @@
 </div>
 <br/>
 
+| <a href="https://github.com/arthurmgraf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurmgraf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arthur github stats" /></a> | <a href="https://github.com/arthurmgraf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 Data Engineer and Analyst with experience in market indicator analysis, strategic metric tracking, and data visualization, combined with a genuine enthusiasm for the financial market. I work in transforming raw data into actionable insights, contributing to strategic decisions and the development of Business Intelligence solutions and products.
 
