@@ -16,17 +16,14 @@
 </div>
 <br/>
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/arthurmgraf/github-readme-stats">
   <img height=180  src="https://github-readme-stats.vercel.app/api?username=arthurmgraf" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/arthurmgraf/convoychat">
   <img height=180  src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmgraf&layout=compact&langs_count=8&card_width=320" />
 </a>
 </div>
 <br/>
-
-| <a href="https://github.com/arthurmgraf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurmgraf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arthur github stats" /></a> | <a href="https://github.com/arthurmgraf/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 
 Data Engineer and Analyst with experience in market indicator analysis, strategic metric tracking, and data visualization, combined with a genuine enthusiasm for the financial market. I work in transforming raw data into actionable insights, contributing to strategic decisions and the development of Business Intelligence solutions and products.
