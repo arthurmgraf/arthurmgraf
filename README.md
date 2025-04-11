@@ -25,6 +25,8 @@
 </div>
 <br/>
 
+[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmgraf&rank_icon=github&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Data Engineer and Analyst with experience in market indicator analysis, strategic metric tracking, and data visualization, combined with a genuine enthusiasm for the financial market. I work in transforming raw data into actionable insights, contributing to strategic decisions and the development of Business Intelligence solutions and products.
 
