@@ -17,10 +17,10 @@
 <br/>
 <div align="center">
   <a href="https://github.com/arthurmgraf">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=arthurmgraf&rank_icon=github&count_private=true&show_icons=true&theme=algolia" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=arthurmgraf&rank_icon=github&count_private=true&show_icons=true" />
   </a>
   <a href="https://github.com/arthurmgraf/convoychat">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmgraf&layout=compact&langs_count=8&card_width=320&theme=algolia" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmgraf&layout=compact&langs_count=8&card_width=320" />
   </a>
 </div>
 <br/>
