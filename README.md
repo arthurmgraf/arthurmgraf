@@ -25,6 +25,9 @@
 </div>
 <br/>
 
+</div>
+<br/>
+
 Data Engineer and Analyst with experience in market indicator analysis, strategic metric tracking, and data visualization, combined with a genuine enthusiasm for the financial market. I work in transforming raw data into actionable insights, contributing to strategic decisions and the development of Business Intelligence solutions and products.
 
 ## 🧑‍💻 About Me
