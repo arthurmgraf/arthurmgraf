@@ -77,6 +77,6 @@ Data Engineer and Analyst with experience in market indicator analysis, strategi
 
 </div>
 <div align="left">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12168092250&count=3" alt="Recently Played">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12168092250&count=100" alt="Recently Played">
 </div>
 </div>
