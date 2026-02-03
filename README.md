@@ -22,7 +22,7 @@ AI Engineer with a strong data engineering foundation, experienced in designing 
 
 ```text
 Location:     Brazil
-Experience:   3+ years in Data & AI Engineering
+Experience:   5+ years in Data & AI Engineering
 Focus:        LLM Integration | Data Pipelines | MLOps
 ```
 
