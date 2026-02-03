@@ -174,9 +174,7 @@ Focus:        LLM Integration | Data Pipelines | MLOps | GenAI
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=arthurmgraf&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurmgraf&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=667eea" width="95%"/>
 </div>
 
 ---
