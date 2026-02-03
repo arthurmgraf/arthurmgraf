@@ -6,7 +6,7 @@
 <!-- Social Badges -->
 <p>
   <a href="https://www.linkedin.com/in/arthurmgraf"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:arthurmgraf@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:arthurmgraf@hotmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=outlook&logoColor=white"/></a>
   <a href="https://github.com/arthurmgraf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -163,12 +163,20 @@ Focus:        LLM Integration | Data Pipelines | MLOps | GenAI
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arthurmgraf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurmgraf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurmgraf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&include_all_commits=true&count_private=true"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&langs_count=8"/>
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&langs_count=8"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurmgraf&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=arthurmgraf&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea"/>
+  </a>
 </div>
 
 ---
