@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Arthur%20Maia%20Graf&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Arthur%20Maia%20Graf&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Data%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Social Badges -->
 <p>
@@ -18,12 +18,12 @@
 
 ## About Me
 
-AI Engineer with a strong data engineering foundation, experienced in designing and integrating **LLM-based solutions**, **multi-agent systems**, and **NLP pipelines** into production environments. Skilled in Python, SQL, and cloud platforms (AWS/GCP), with a background in building **high-throughput data pipelines** using Spark, NiFi, and Kafka. Focused on delivering production-ready AI features with attention to evaluation, quality, and observability.
+AI Data Engineer with 5+ years of experience bridging the gap between **data engineering** and **AI/ML systems**. Experienced in designing **LLM-based solutions**, **multi-agent architectures**, and **NLP pipelines** while building robust **high-throughput data infrastructure** using Spark, NiFi, and Kafka. Skilled in Python, SQL, and cloud platforms (AWS/GCP), with a strong focus on delivering production-ready AI features with attention to evaluation, quality, and observability.
 
 ```text
 Location:     Brazil
-Experience:   5+ years in Data & AI Engineering
-Focus:        LLM Integration | Data Pipelines | MLOps
+Experience:   5+ years in AI & Data Engineering
+Focus:        LLM Integration | Data Pipelines | MLOps | GenAI
 ```
 
 ---
