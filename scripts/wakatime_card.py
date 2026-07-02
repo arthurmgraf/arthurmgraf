@@ -68,14 +68,15 @@ def build_svg(data) -> str:
         fill_w = max(4, round(BAR_W * pct / 100))
         name = esc(l["name"])
         t = short_time(int(l.get("hours", 0)), int(l.get("minutes", 0)))
+        # Base width is the FINAL value so the card renders correctly even if
+        # the host strips SMIL animations; the animate is a progressive enhancement.
         rows.append(f'''
-    <g transform="translate(0 {y})" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="{0.15 + i*0.12}s" dur="0.5s" fill="freeze"/>
+    <g transform="translate(0 {y})">
       <text x="{PAD}" y="14" fill="{NAME}" font-size="13" font-weight="600">{name}</text>
       <text x="{PAD}" y="28" fill="{TIME}" font-size="10">{t}</text>
       <rect x="{BAR_X}" y="6" width="{BAR_W}" height="9" rx="4.5" fill="{TRACK}"/>
-      <rect x="{BAR_X}" y="6" width="0" height="9" rx="4.5" fill="url(#g)">
-        <animate attributeName="width" from="0" to="{fill_w}" begin="{0.2 + i*0.12}s" dur="0.8s" fill="freeze"
+      <rect x="{BAR_X}" y="6" width="{fill_w}" height="9" rx="4.5" fill="url(#g)">
+        <animate attributeName="width" from="0" to="{fill_w}" begin="0s" dur="0.9s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
       </rect>
       <text x="{W-PAD}" y="15" fill="{PCT}" font-size="12" text-anchor="end">{pct:.1f}%</text>
