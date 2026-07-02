@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Arthur%20Maia%20Graf&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Data%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Arthur%20Maia%20Graf&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20Engineer%20%7C%20GCP%20%E2%80%A2%20BigQuery%20%E2%80%A2%20Spark%20%E2%80%A2%20Kafka&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Social Badges -->
 <p>
@@ -18,39 +18,39 @@
 
 ## About Me
 
-AI Data Engineer with 5+ years of experience bridging the gap between **data engineering** and **AI/ML systems**. Experienced in designing **LLM-based solutions**, **multi-agent architectures**, and **NLP pipelines** while building robust **high-throughput data infrastructure** using Spark, NiFi, and Kafka. Skilled in Python, SQL, and cloud platforms (AWS/GCP), with a strong focus on delivering production-ready AI features with attention to evaluation, quality, and observability.
+**Senior Data Engineer** building data platforms that hold up in production — currently delivering financial-market pipelines on **GCP** (BigQuery, Cloud Composer/Airflow, Dataproc/PySpark) for a receivables registrar. I pair rock-solid data engineering (**Spark, Kafka, NiFi, ~20 TB/week**) with **AI-augmented delivery** (LLMs, RAG, multi-agent workflows) to ship production features faster — with evaluation, quality, and observability built in from day one.
 
 ```text
-Location:     Brazil
-Experience:   5+ years in AI & Data Engineering
-Focus:        LLM Integration | Data Pipelines | MLOps | GenAI
+Location:     Joinville, Santa Catarina, Brazil
+Experience:   5+ years in Data Engineering
+Focus:        Data Platforms | ETL/ELT | Streaming | AI-Augmented Delivery
+Open to:      Senior Data Engineer roles & contract (PJ) — remote, worldwide
 ```
 
 ---
 
 ## Tech Stack
 
-### AI & LLM
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangFuse-4F46E5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDJMMiA3bDEwIDVsLTEwIDVsMTAgNWwxMC01bC0xMC01bDEwLTVMMTIgMnoiLz48L3N2Zz4=&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-00D4AA?style=for-the-badge&logo=semanticscholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-764ba2?style=for-the-badge&logo=protocol&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector_DBs-FF6F00?style=for-the-badge&logo=pinecone&logoColor=white"/>
-</p>
-
 ### Data Engineering
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_NiFi-017081?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white"/>
+</p>
+
+### Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dataproc-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud_Composer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 </p>
 
 ### Databases
@@ -64,14 +64,16 @@ Focus:        LLM Integration | Data Pipelines | MLOps | GenAI
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
-### Cloud & Infrastructure
+### AI & LLM
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud_Functions-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pub/Sub-4285F4?style=for-the-badge&logo=googlepubsub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-00D4AA?style=for-the-badge&logo=semanticscholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-764ba2?style=for-the-badge&logo=protocol&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector_DBs-FF6F00?style=for-the-badge&logo=pinecone&logoColor=white"/>
 </p>
 
 ### DevOps & IaC
@@ -102,44 +104,43 @@ Focus:        LLM Integration | Data Pipelines | MLOps | GenAI
 <tr>
 <td width="50%">
 
-### AI & LLM
-- Multi-agent orchestration with **CrewAI**
-- RAG architecture & vector search
-- Context engineering & prompt optimization
-- Real-time tracing with **LangFuse**
-- AI evaluation & guardrails
-- **MCP** (Model Context Protocol) integration
+### Data Engineering
+- Near real-time pipelines (**~20 TB/week**) with NiFi + Kafka
+- **93%** reduction in pipeline execution time (DuckDB + Parquet)
+- **87%** faster SQL (PostgreSQL, Druid, Trino)
+- Medallion architecture on **BigQuery**; partition pruning + clustering
+- Observability from day one (Grafana, Prometheus)
 
 </td>
 <td width="50%">
 
-### Data Engineering
-- Near real-time pipelines (**20TB/week**)
-- **93%** reduction in pipeline execution time
-- **87%** improvement in SQL query performance
-- Serverless pipelines on **GCP**
-- Observability from day one
+### Cloud & Platform
+- Serverless & batch pipelines on **GCP** (Composer, Dataproc, Functions)
+- Infrastructure as Code (**Terraform / Terragrunt**)
+- CI/CD with quality gates & smoke tests
+- Kubernetes / OpenShift deployments
+- Contract reconciliation across registrars (CERC, Núclea, B3)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### DevOps & MLOps
-- Infrastructure as Code (**Terraform/Terragrunt**)
-- CI/CD with **quality gates**
-- Automated **smoke tests**
-- **Auto-healing** pipelines
-- Kubernetes/OpenShift deployments
+### AI-Augmented Delivery
+- Multi-agent orchestration (**CrewAI, LangGraph**)
+- RAG architecture & vector search
+- **MCP** (Model Context Protocol) tooling
+- AI evaluation, tracing & guardrails
+- **4x** faster delivery with LLM-assisted development
 
 </td>
 <td width="50%">
 
-### Leadership
-- Delivered **48h** of training to 40+ students
-- Built **50+** analytical dashboards
+### Impact & Leadership
+- **60%+** analytics cost reduction via architecture redesign
+- **50+** analytical dashboards delivered
 - Served **20+** manufacturers and retail brands
-- **4x** faster deliveries with AI-assisted development
+- **48h** of training delivered to 40+ client employees
 
 </td>
 </tr>
@@ -149,14 +150,26 @@ Focus:        LLM Integration | Data Pipelines | MLOps | GenAI
 
 ## Experience
 
-**Senior Data Engineer** @ NTT DATA *(Apr 2025 - Present)*
-> Building high-throughput data pipelines, AI-powered automation, and multi-agent systems
+**Senior Data Engineer** @ SevenRed — Financial Market *(Jun 2026 - Present)*
+> Financial-market pipelines on GCP (BigQuery, Cloud Composer/Airflow, Dataproc/PySpark) over a Medallion architecture; contract reconciliation across registrars (CERC, Núclea, B3) for regulatory reporting; Terraform IaC.
+
+**Senior Data Engineer** @ NTT DATA *(Apr 2025 - May 2026)*
+> Near real-time pipelines processing 20 TB/week (NiFi, Kafka); 93% runtime reduction (DuckDB + Parquet); 87% faster SQL; 50+ Superset dashboards; 4x faster delivery with AI-assisted development.
 
 **Data Engineer** @ Neogrid *(Feb 2024 - Apr 2025)*
-> Cut data analytics costs by 60%, built AI chatbot test suites with Google Gemini
+> Cut analytics costs by 60% via architecture redesign; 30% faster SQL with Python; Superset consumption layers for 20+ manufacturers; AI chatbot test suites (Google Gemini + NLP).
 
-**Data Analyst** @ Motorista PX *(Sep 2023 - Feb 2024)*
-> Real-time analytics apps, churn analysis, NLP-based audit analysis
+**Data Analyst / Operational Intelligence** @ Motorista PX *(Nov 2022 - Feb 2024)*
+> Real-time analytics apps (Streamlit, Pandas, NumPy); Python automation (-30% manual work); NPS dashboards; churn & root-cause analysis.
+
+---
+
+## Featured Projects
+
+- **[MR. HEALTH — Enterprise Data Warehouse on GCP](https://github.com/arthurmgraf/mrhealth-data-platform)** — Medallion + Kimball Star Schema on BigQuery, event-driven ingestion (Eventarc + Cloud Functions), Airflow, K3s, Prometheus/Grafana, Terraform. `$0/month` · 194 tests.
+- **[StreamFlow Analytics — Real-Time Fraud Detection](https://github.com/arthurmgraf/streamflow-analytics)** — Kafka, Apache Flink, Airflow, PostgreSQL on Kubernetes; Isolation Forest with hybrid scoring. 254 tests.
+- **[GraphMind — Agentic RAG Platform](https://github.com/arthurmgraf/graphmind)** — LangGraph + CrewAI orchestration, Qdrant + Neo4j retrieval, multi-provider LLM routing, MCP Server, NeMo Guardrails, Langfuse. 85 tests.
+- **[NiFi Oil & Gas Monitoring — Real-Time IoT](https://github.com/arthurmgraf/nifi-oilgas-monitoring)** — Apache NiFi 2.8, Kafka, TimescaleDB, Grafana; Python anomaly detection with automated alerting.
 
 ---
 
@@ -180,6 +193,10 @@ Focus:        LLM Integration | Data Pipelines | MLOps | GenAI
 ---
 
 ## Coding Activity
+
+<!--START_SECTION:waka-->
+_Weekly WakaTime breakdown updates automatically once the `WAKATIME_API_KEY` secret is set._
+<!--END_SECTION:waka-->
 
 <p align="center">
   <a href="https://wakatime.com/@arthurmgraf">
