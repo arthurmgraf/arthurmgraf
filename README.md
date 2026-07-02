@@ -195,7 +195,17 @@ Open to:      Senior Data Engineer roles & contract (PJ) — remote, worldwide
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-_Weekly WakaTime breakdown updates automatically once the `WAKATIME_API_KEY` secret is set._
+```text
+WakaTime — last week (total 8 hrs 23 mins)
+
+Python     4 hrs 9 mins   ███████████░░░░░░░░░░░░░░    44.28 %
+Markdown   1 hr 47 mins   █████░░░░░░░░░░░░░░░░░░░░    19.15 %
+YAML       1 hr 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░    11.65 %
+SQL        47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░     8.36 %
+Text       19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░     3.44 %
+JSON       13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░     2.45 %
+Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░░░░░     0.04 %
+```
 <!--END_SECTION:waka-->
 
 <p align="center">
