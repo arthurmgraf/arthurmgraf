@@ -1,0 +1,27 @@
+name: WakaTime Readme
+
+# Auto-updates the WakaTime section of the profile README.
+# Requires a repository secret WAKATIME_API_KEY (wakatime.com/settings/api-key).
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # daily at 06:00 UTC
+  workflow_dispatch:        # allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README with WakaTime metrics
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "true"
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: last_7_days
+          LANG_COUNT: "8"
+          STOP_AT_OTHER: "true"
