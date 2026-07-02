@@ -198,20 +198,11 @@ Open to:      Senior Data Engineer roles & contract (PJ) — remote, worldwide
 
 ## Weekly Coding Activity
 
-<!--START_SECTION:waka-->
+<div align="center">
+  <img src="./assets/wakatime.svg" alt="Weekly coding activity from WakaTime" width="500"/>
+</div>
 
-```txt
-From: 25 June 2026 - To: 02 July 2026
-
-Python     4 hrs 9 mins          ███████████░░░░░░░░░░░░░░   44.28 %
-Markdown   1 hr 47 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
-YAML       1 hr 5 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
-Other      59 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
-```
-
-<!--END_SECTION:waka-->
-
-<p align="center"><sub>Auto-tracked with <a href="https://wakatime.com/@arthurmgraf">WakaTime</a> · updated daily</sub></p>
+<p align="center"><sub>Auto-generated daily from <a href="https://wakatime.com/@arthurmgraf">WakaTime</a></sub></p>
 
 ---
 

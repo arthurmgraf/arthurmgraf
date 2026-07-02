@@ -1,27 +1,32 @@
-name: WakaTime Readme
+name: WakaTime Card
 
-# Auto-updates the WakaTime section of the profile README.
-# Requires a repository secret WAKATIME_API_KEY (wakatime.com/settings/api-key).
+# Regenerates assets/wakatime.svg from the WakaTime API (self-hosted, no
+# external card service). Requires repo secret WAKATIME_API_KEY.
 
 on:
   schedule:
     - cron: "0 6 * * *"   # daily at 06:00 UTC
-  workflow_dispatch:        # allow manual runs
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-readme:
-    name: Update WakaTime stats
+  build-card:
     runs-on: ubuntu-latest
     steps:
-      - name: Update README with WakaTime metrics
-        uses: athul/waka-readme@master
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
+          python-version: "3.12"
+      - name: Generate WakaTime card
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: "true"
-          BLOCKS: "░▒▓█"
-          TIME_RANGE: last_7_days
-          LANG_COUNT: "5"
-          STOP_AT_OTHER: "true"
+        run: python scripts/wakatime_card.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/wakatime.svg
+          git diff --staged --quiet || git commit -m "chore: refresh WakaTime card"
+          git push
