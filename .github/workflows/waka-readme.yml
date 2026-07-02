@@ -23,5 +23,5 @@ jobs:
           SHOW_TITLE: "true"
           BLOCKS: "░▒▓█"
           TIME_RANGE: last_7_days
-          LANG_COUNT: "8"
+          LANG_COUNT: "5"
           STOP_AT_OTHER: "true"

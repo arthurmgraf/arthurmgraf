@@ -187,12 +187,16 @@ Open to:      Senior Data Engineer roles & contract (PJ) — remote, worldwide
 </div>
 
 <div align="center">
+  <img height="170" src="https://streak-stats.demolab.com/?user=arthurmgraf&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=8b949e&dates=8b949e"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurmgraf&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=667eea" width="95%"/>
 </div>
 
 ---
 
-## Coding Activity
+## Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -207,11 +211,7 @@ Other      59 mins               ██▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <a href="https://wakatime.com/@arthurmgraf">
-    <img src="https://wakatime.com/share/@arthurmgraf/2829ebad-602c-4681-a1ee-35a522c092d0.svg" alt="WakaTime Stats" width="450"/>
-  </a>
-</p>
+<p align="center"><sub>Auto-tracked with <a href="https://wakatime.com/@arthurmgraf">WakaTime</a> · updated daily</sub></p>
 
 ---
 
