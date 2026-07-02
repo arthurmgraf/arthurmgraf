@@ -195,17 +195,16 @@ Open to:      Senior Data Engineer roles & contract (PJ) — remote, worldwide
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-```text
-WakaTime — last week (total 8 hrs 23 mins)
 
-Python     4 hrs 9 mins   ███████████░░░░░░░░░░░░░░    44.28 %
-Markdown   1 hr 47 mins   █████░░░░░░░░░░░░░░░░░░░░    19.15 %
-YAML       1 hr 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░    11.65 %
-SQL        47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░     8.36 %
-Text       19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░     3.44 %
-JSON       13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░     2.45 %
-Bash       0 secs         ░░░░░░░░░░░░░░░░░░░░░░░░░     0.04 %
+```txt
+From: 25 June 2026 - To: 02 July 2026
+
+Python     4 hrs 9 mins          ███████████░░░░░░░░░░░░░░   44.28 %
+Markdown   1 hr 47 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+YAML       1 hr 5 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+Other      59 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
