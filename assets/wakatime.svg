@@ -7,46 +7,46 @@
   </defs>
   <rect x="0.5" y="0.5" width="499" height="223" rx="12" fill="#0d1117" stroke="rgba(255,255,255,0.08)"/>
   <text x="24" y="34" fill="#818cf8" font-size="15" font-weight="700">Weekly Coding Activity</text>
-  <text x="476" y="34" fill="#6b7280" font-size="11" text-anchor="end">Last 7 days &#183; 7 hrs 7 mins</text>
+  <text x="476" y="34" fill="#6b7280" font-size="11" text-anchor="end">Last 7 days &#183; 7 hrs 27 mins</text>
   
     <g transform="translate(0 58)">
-      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">Python</text>
-      <text x="24" y="28" fill="#6b7280" font-size="10">3h 20m</text>
+      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">Markdown</text>
+      <text x="24" y="28" fill="#6b7280" font-size="10">3h 33m</text>
       <rect x="150" y="6" width="250" height="9" rx="4.5" fill="rgba(255,255,255,0.06)"/>
-      <rect x="150" y="6" width="102" height="9" rx="4.5" fill="url(#g)">
-        <animate attributeName="width" from="0" to="102" begin="0s" dur="0.9s" fill="freeze"
+      <rect x="150" y="6" width="115" height="9" rx="4.5" fill="url(#g)">
+        <animate attributeName="width" from="0" to="115" begin="0s" dur="0.9s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
       </rect>
-      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">40.7%</text>
+      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">46.1%</text>
     </g>
     <g transform="translate(0 96)">
-      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">Markdown</text>
-      <text x="24" y="28" fill="#6b7280" font-size="10">2h 27m</text>
+      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">Python</text>
+      <text x="24" y="28" fill="#6b7280" font-size="10">2h 56m</text>
       <rect x="150" y="6" width="250" height="9" rx="4.5" fill="rgba(255,255,255,0.06)"/>
-      <rect x="150" y="6" width="75" height="9" rx="4.5" fill="url(#g)">
-        <animate attributeName="width" from="0" to="75" begin="0s" dur="0.9s" fill="freeze"
+      <rect x="150" y="6" width="95" height="9" rx="4.5" fill="url(#g)">
+        <animate attributeName="width" from="0" to="95" begin="0s" dur="0.9s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
       </rect>
-      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">29.8%</text>
+      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">38.0%</text>
     </g>
     <g transform="translate(0 134)">
-      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">SQL</text>
-      <text x="24" y="28" fill="#6b7280" font-size="10">28m</text>
+      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">YAML</text>
+      <text x="24" y="28" fill="#6b7280" font-size="10">23m</text>
       <rect x="150" y="6" width="250" height="9" rx="4.5" fill="rgba(255,255,255,0.06)"/>
-      <rect x="150" y="6" width="14" height="9" rx="4.5" fill="url(#g)">
-        <animate attributeName="width" from="0" to="14" begin="0s" dur="0.9s" fill="freeze"
+      <rect x="150" y="6" width="13" height="9" rx="4.5" fill="url(#g)">
+        <animate attributeName="width" from="0" to="13" begin="0s" dur="0.9s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
       </rect>
-      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">5.8%</text>
+      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">5.1%</text>
     </g>
     <g transform="translate(0 172)">
-      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">YAML</text>
-      <text x="24" y="28" fill="#6b7280" font-size="10">19m</text>
+      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">SQL</text>
+      <text x="24" y="28" fill="#6b7280" font-size="10">4m</text>
       <rect x="150" y="6" width="250" height="9" rx="4.5" fill="rgba(255,255,255,0.06)"/>
-      <rect x="150" y="6" width="10" height="9" rx="4.5" fill="url(#g)">
-        <animate attributeName="width" from="0" to="10" begin="0s" dur="0.9s" fill="freeze"
+      <rect x="150" y="6" width="4" height="9" rx="4.5" fill="url(#g)">
+        <animate attributeName="width" from="0" to="4" begin="0s" dur="0.9s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
       </rect>
-      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">4.0%</text>
+      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">1.0%</text>
     </g>
 </svg>
