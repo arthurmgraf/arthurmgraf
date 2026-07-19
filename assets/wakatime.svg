@@ -7,30 +7,30 @@
   </defs>
   <rect x="0.5" y="0.5" width="499" height="261" rx="12" fill="#0d1117" stroke="rgba(255,255,255,0.08)"/>
   <text x="24" y="34" fill="#818cf8" font-size="15" font-weight="700">Weekly Coding Activity</text>
-  <text x="476" y="34" fill="#6b7280" font-size="11" text-anchor="end">Last 7 days &#183; 14 hrs 47 mins</text>
+  <text x="476" y="34" fill="#6b7280" font-size="11" text-anchor="end">Last 7 days &#183; 14 hrs 8 mins</text>
   
     <g transform="translate(0 58)">
       <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">Markdown</text>
-      <text x="24" y="28" fill="#6b7280" font-size="10">8h 13m</text>
+      <text x="24" y="28" fill="#6b7280" font-size="10">7h 17m</text>
       <rect x="150" y="6" width="250" height="9" rx="4.5" fill="rgba(255,255,255,0.06)"/>
-      <rect x="150" y="6" width="93" height="9" rx="4.5" fill="url(#g)">
-        <animate attributeName="width" from="0" to="93" begin="0s" dur="0.9s" fill="freeze"
+      <rect x="150" y="6" width="83" height="9" rx="4.5" fill="url(#g)">
+        <animate attributeName="width" from="0" to="83" begin="0s" dur="0.9s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
       </rect>
-      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">37.1%</text>
+      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">33.3%</text>
     </g>
     <g transform="translate(0 96)">
       <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">Python</text>
-      <text x="24" y="28" fill="#6b7280" font-size="10">5h 35m</text>
+      <text x="24" y="28" fill="#6b7280" font-size="10">5h 49m</text>
       <rect x="150" y="6" width="250" height="9" rx="4.5" fill="rgba(255,255,255,0.06)"/>
-      <rect x="150" y="6" width="63" height="9" rx="4.5" fill="url(#g)">
-        <animate attributeName="width" from="0" to="63" begin="0s" dur="0.9s" fill="freeze"
+      <rect x="150" y="6" width="66" height="9" rx="4.5" fill="url(#g)">
+        <animate attributeName="width" from="0" to="66" begin="0s" dur="0.9s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
       </rect>
-      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">25.2%</text>
+      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">26.6%</text>
     </g>
     <g transform="translate(0 134)">
-      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">YAML</text>
+      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">Bash</text>
       <text x="24" y="28" fill="#6b7280" font-size="10">21m</text>
       <rect x="150" y="6" width="250" height="9" rx="4.5" fill="rgba(255,255,255,0.06)"/>
       <rect x="150" y="6" width="4" height="9" rx="4.5" fill="url(#g)">
@@ -40,14 +40,14 @@
       <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">1.6%</text>
     </g>
     <g transform="translate(0 172)">
-      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">Bash</text>
-      <text x="24" y="28" fill="#6b7280" font-size="10">21m</text>
+      <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">YAML</text>
+      <text x="24" y="28" fill="#6b7280" font-size="10">17m</text>
       <rect x="150" y="6" width="250" height="9" rx="4.5" fill="rgba(255,255,255,0.06)"/>
       <rect x="150" y="6" width="4" height="9" rx="4.5" fill="url(#g)">
         <animate attributeName="width" from="0" to="4" begin="0s" dur="0.9s" fill="freeze"
                  calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1"/>
       </rect>
-      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">1.6%</text>
+      <text x="476" y="15" fill="#a5b4fc" font-size="12" text-anchor="end">1.3%</text>
     </g>
     <g transform="translate(0 210)">
       <text x="24" y="14" fill="#c9d1d9" font-size="13" font-weight="600">HTML</text>
