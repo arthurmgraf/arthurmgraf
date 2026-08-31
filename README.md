@@ -176,8 +176,8 @@ Open to:      Senior Data Engineer roles & contract (PJ) — remote, worldwide
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=arthurmgraf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&langs_count=8" alt="Top languages"/>
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthurmgraf&theme=github_dark" alt="GitHub stats"/>
+  <img height="195" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&langs_count=8" alt="Top languages"/>
 </div>
 
 <div align="center">
