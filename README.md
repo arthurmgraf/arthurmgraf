@@ -176,33 +176,13 @@ Open to:      Senior Data Engineer roles & contract (PJ) — remote, worldwide
 ## GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurmgraf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=arthurmgraf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&include_all_commits=true&count_private=true"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&langs_count=8"/>
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&langs_count=8"/>
-  </picture>
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=arthurmgraf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arthurmgraf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&langs_count=8" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com/?user=arthurmgraf&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=8b949e&dates=8b949e"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=arthurmgraf&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=8b949e&dates=8b949e" alt="Contribution streak"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurmgraf&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=667eea" width="95%"/>
-</div>
-
----
-
-## Weekly Coding Activity
-
-<div align="center">
-  <img src="./assets/wakatime.svg" alt="Weekly coding activity from WakaTime" width="500"/>
-</div>
-
-<p align="center"><sub>Auto-generated daily from <a href="https://wakatime.com/@arthurmgraf">WakaTime</a></sub></p>
 
 ---
 
@@ -210,7 +190,7 @@ Open to:      Senior Data Engineer roles & contract (PJ) — remote, worldwide
 
 ### Currently Listening
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=12168092250&count=3" alt="Recently Played"/>
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=12168092250)
 
 </div>
 
